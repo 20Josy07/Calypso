@@ -20,7 +20,6 @@ Calypso is a modern, high-quality music downloader for Android. It combines a po
 | Welcome Screen | Main Search | Status Card |
 | :---: | :---: | :---: |
 | ![Welcome](https://raw.githubusercontent.com/20Josy07/Calypso/main/screenshots/welcome.png) | ![Main](https://raw.githubusercontent.com/20Josy07/Calypso/main/screenshots/main.png) | ![Status](https://raw.githubusercontent.com/20Josy07/Calypso/main/screenshots/status.png) |
-*(Note: Upload your screenshots to a `/screenshots` folder in your repo to see them here)*
 
 ## 🛠 Tech Stack
 
