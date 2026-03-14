@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/20Josy07/Calypso/main/screenshots/banner.png" alt="Calypso Banner">
+</p>
+
 # Calypso 🎵
 **Experience music in its purest form.**
 
